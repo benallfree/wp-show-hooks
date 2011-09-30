@@ -1,0 +1,3 @@
+<?
+
+global $seen_hooks;

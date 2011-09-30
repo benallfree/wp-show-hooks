@@ -2,6 +2,9 @@
 
 $manifest = array();
 
+// Set to TRUE if you want Click to automatically load and persist plugin settings
+$manifest['use_settings'] = false;
+
 /*
 Your plugin almost certainly needs to respond to at least some WordPress action. If you need to respond to other types of events, uncomment or add them.
 */
